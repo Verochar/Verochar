@@ -12,7 +12,7 @@
 
 ### 🌟 Featured Projects  
 - **[Celestial Blaze](https://charkichar.itch.io/celestial-blaze) (in development):** A roguelite about an angel fighting waves of demons.
-- **[Final testing project](https://verochar.github.io/portfolio-equipo/):** Final testing project from Jóvenes a Programar testing course.
+- **[Final testing project](https://verochar.github.io/portfolio-equipo/):** A final project from the Jóvenes a Programar testing course.
 
 ### 🎯 Goals  
 To learn, collaborate on exciting projects, and grow in the field of game development. 
